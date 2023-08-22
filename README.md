@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on business support chatbot [oGPT](https://github.com/princeofdev/oGPT)
 
-- 🌱 I’m currently learning **Last**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **solidity and fullstack(LAMP, MERN, MEAN and MEVN)**
 
