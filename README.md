@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on AI Chatbot development.
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m talented Blockchain developer.
 
 - 💬 Ask me about **solidity and fullstack(LAMP, MERN, MEAN and MEVN)**
 
