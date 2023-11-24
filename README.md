@@ -7,8 +7,6 @@
 
 - 💬 Ask me about **fullstack(LAMP, MERN, MEAN and MEVN) | Django | AI Chatbot**
 
-- 📫 How to reach me [https://t.me/AceHarlock](https://t.me/Luck1027)
-
 - ⚡ Fun fact **I think I am a "CoreDev".**
 
 <h3 align="left">Languages and Tools:</h3>
